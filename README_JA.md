@@ -1,6 +1,6 @@
 # Dikarier Effect System API (v2.6)
 
-[Read in English](README_EN.md) | [На русском](README_RU.md) | [中文阅读](README_ZH.md)
+[Read in English](README.md) | [На русском](README_RU.md) | [中文阅读](README_ZH.md)
 
 ## はじめに
 
