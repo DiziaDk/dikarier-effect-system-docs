@@ -1,4 +1,3 @@
-### README_EN.md
 
 # Dikarier Effect System API (v2.6)
 
